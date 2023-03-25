@@ -1,0 +1,103 @@
+[
+    {
+      "title": "Web Developer",
+      "company": "Acme Inc.",
+      "location": "New York, NY",
+      "salary": "$100,000 - $120,000"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "XYZ Corp.",
+      "location": "San Francisco, CA",
+      "salary": "$120,000 - $140,000"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Tech Co.",
+      "location": "Boston, MA",
+      "salary": "$110,000 - $130,000"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Google",
+        "location": "Mountain View, CA",
+        "salary": "$150,000",
+        "description": "We are looking for a software engineer to work on Google's search algorithm."
+      },
+      {
+        "title": "Graphic Designer",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "salary": "$100,000",
+        "description": "We are seeking a talented graphic designer to work on designing user interfaces for our products."
+      },
+      {
+        "title": "Marketing Specialist",
+        "company": "Microsoft",
+        "location": "Redmond, WA",
+        "salary": "$120,000",
+        "description": "We are looking for a marketing specialist to help promote Microsoft's products and services."
+      },
+      {
+        "title": "Product Manager",
+        "company": "Amazon",
+        "location": "Seattle, WA",
+        "salary": "$140,000",
+        "description": "We are seeking a talented product manager to help drive the development of new products at Amazon."
+      },
+      {
+        "title": "Data Scientist",
+        "company": "Facebook",
+        "location": "Menlo Park, CA",
+        "salary": "$130,000",
+        "description": "We are looking for a data scientist to help us analyze and understand user behavior on Facebook."
+      },
+      {
+        "title": "Data Scientist",
+        "company": "Tech Co.",
+        "location": "Boston, MA",
+        "salary": "$110,000 - $130,000"
+      },
+      {
+          "title": "Software Engineer",
+          "company": "Google",
+          "location": "Mountain View, CA",
+          "salary": "$150,000",
+          "description": "We are looking for a software engineer to work on Google's search algorithm."
+        },
+        {
+          "title": "Graphic Designer",
+          "company": "Apple",
+          "location": "Cupertino, CA",
+          "salary": "$100,000",
+          "description": "We are seeking a talented graphic designer to work on designing user interfaces for our products."
+        },
+        {
+          "title": "Marketing Specialist",
+          "company": "Microsoft",
+          "location": "Redmond, WA",
+          "salary": "$120,000",
+          "description": "We are looking for a marketing specialist to help promote Microsoft's products and services."
+        },
+        {
+          "title": "Product Manager",
+          "company": "Amazon",
+          "location": "Seattle, WA",
+          "salary": "$140,000",
+          "description": "We are seeking a talented product manager to help drive the development of new products at Amazon."
+        },
+        {
+            "title": "Data Scientist",
+            "company": "Tech Co.",
+            "location": "Boston, MA",
+            "salary": "$110,000 - $130,000"
+          },
+          {
+              "title": "Software Engineer",
+              "company": "Google",
+              "location": "Mountain View, CA",
+              "salary": "$150,000",
+              "description": "We are looking for a software engineer to work on Google's search algorithm."
+            }
+]
+  
